@@ -32,14 +32,14 @@ This is an **ATM (Automated Teller Machine)** system project developed in **COBO
 
 ## ▶️ How to Compile and Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/martinlwolf/atm-machine-cobol.git
-2.Open OpenCobolIDE
-3. **Compile subprograms:**
-   LAST-TRANSACTIONS.cbl and CASH-MODULE.cbl on OpenCobolIde
-4. **Compile and run main program:**
-   ATM-MACHINE.cbl
+1. **Clone the repository:**  
+   ```bash  
+   git clone https://github.com/martinlwolf/atm-machine-cobol.git  
+2. **Open OpenCobolIDE**  
+3. **Compile subprograms:**  
+   LAST-TRANSACTIONS.cbl and CASH-MODULE.cbl on OpenCobolIde  
+4. **Compile and run main program:**  
+   ATM-MACHINE.cbl  
 
 **📁 ACCOUNTS.DAT Structure**
 Field	Type	Description
