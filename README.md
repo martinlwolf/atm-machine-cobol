@@ -67,8 +67,8 @@ Error messages when file access or write operations fail.
 Graphical or web interface (e.g. Java Swing or REST API frontend).
 
 **🧑‍💻 Author**
-Project created by Martin L. Wolf as a demonstration of COBOL skills for mainframe and legacy environments.
-GitHub: martinlwolf
+Project created by Martin L. Wolf as a demonstration of COBOL skills for mainframe and legacy environments.  
+GitHub: [martinlwolf](https://github.com/martinlwolf)
 
 To test the program:  
 ACCOUNT 1:  
